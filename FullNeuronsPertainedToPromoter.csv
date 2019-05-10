@@ -1,0 +1,449 @@
+ncx-6,['ADL'],1
+ncx-7,['ADL'],1
+svh-1,['ADL'],1
+gcy-23,['AFD'],1
+gcy-8,['AFD'],1
+scd-2,['AIA'],1
+mgl-2,['AIB'],1
+npr-9,['AIB'],1
+drn-1,['AIY'],1
+glc-3,['AIY'],1
+jnk-1,['AIY'],1
+lat-1,['AIY'],1
+ldb-1,['AIY'],1
+lgc-27,['AIY'],1
+lgc-38,['AIY'],1
+lgc-46,['AIY'],1
+ncx-1,['AIY'],1
+nhx-1,['AIY'],1
+npr-14,['AIY'],1
+pll-1,['AIY'],1
+ceh-17,['ALA'],1
+let-23,['ALA'],1
+plc-3,['ALA'],1
+ver-3,['ALA'],1
+nrx-1,['ALM'],1
+cog-1,['ASE'],1
+die-1,['ASE'],1
+gcy-22,['ASE'],1
+gcy-4,['ASE'],1
+gcy-5,['ASE'],1
+gcy-6,['ASE'],1
+gcy-7,['ASE'],1
+lsy-6,['ASE'],1
+gcy-15,['ASG'],1
+daf-7,['ASI'],1
+gpa-4,['ASI'],1
+nhr-69,['ASI'],1
+nlp-18,['ASI'],1
+nlp-24,['ASI'],1
+nlp-27,['ASI'],1
+sad-1,['ASI'],1
+skn-1,['ASI'],1
+sma-6,['ASI'],1
+str-3,['ASI'],1
+apl-1,['ASJ'],1
+srh-11,['ASJ'],1
+ssu-1,['ASJ'],1
+trx-1,['ASJ'],1
+sra-7,['ASK'],1
+sra-9,['ASK'],1
+srg-2,['ASK'],1
+srg-8,['ASK'],1
+ins-17,['AVG'],1
+hlh-34,['AVJ'],1
+inx-2,['AVK'],1
+odr-10,['AWA'],1
+odr-7,['AWA'],1
+sru-38,['AWB'],1
+str-1,['AWB'],1
+str-44,['AWB'],1
+nsy-1,['AWC'],1
+nsy-4,['AWC'],1
+srt-45,['AWC'],1
+srt-47,['AWC'],1
+tir-1,['AWC'],1
+cah-2,['BAG'],1
+ets-5,['BAG'],1
+flp-17,['BAG'],1
+gcy-31,['BAG'],1
+gcy-9,['BAG'],1
+aex-6,['BDU'],1
+ahr-1,['BDU'],1
+hid-1,['BDU'],1
+slt-1,['BDU'],1
+zig-3,['BDU'],1
+daf-10,['CEP'],1
+mig-13,['DA'],1
+vab-7,['DB'],1
+hbl-1,['DD'],1
+irx-1,['DD'],1
+ceh-62,['DVA'],1
+fax-1,['DVA'],1
+nlp-12,['DVA'],1
+twk-16,['DVA'],1
+ceh-63,['DVC'],1
+inx-5,['DVC'],1
+sto-5,['FLP'],1
+arr-1,['HSN'],1
+egl-10,['HSN'],1
+gsa-1,['HSN'],1
+ham-2,['HSN'],1
+irk-1,['HSN'],1
+lin-4,['HSN'],1
+sem-4,['HSN'],1
+aqp-6,['IL1'],1
+klp-6,['IL2'],1
+kpc-1,['IL2'],1
+lag-2,['IL2'],1
+lin-32,['IL2'],1
+unc-5,['IL2'],1
+nlp-13,['LUA'],1
+dop-6,['OLL'],1
+grd-8,['OLL'],1
+pqn-47,['OLL'],1
+uig-1,['OLL'],1
+ocr-4,['OLQ'],1
+flp-15,['PHA'],1
+gcy-17,['PHA'],1
+srg-13,['PHA'],1
+cct-2,['PLM'],1
+cct-4,['PLM'],1
+bam-2,['PLN'],1
+cgk-1,['PQR'],1
+rgs-9,['PQR'],1
+erm-1,['PVD'],1
+frm-4,['PVD'],1
+frm-8,['PVD'],1
+unc-33,['PVD'],1
+gar-1,['PVM'],1
+ddr-1,['PVP'],1
+ddr-2,['PVP'],1
+zig-2,['PVT'],1
+daf-16,['RIA'],1
+glr-6,['RIA'],1
+nlp-22,['RIA'],1
+tbh-1,['RIC'],1
+gcy-13,['RIM'],1
+nlr-1,['RIS'],1
+glc-2,['RME'],1
+sem-2,['RMH'],1
+ric-19,['SAB'],1
+svh-2,['URY'],1
+tol-1,['URY'],1
+ceh-12,['VB'],1
+syd-2,['VD'],1
+srd-1,"['ADF', 'ASI']",2
+gcy-21,"['ADL', 'ASG']",2
+gpa-11,"['ADL', 'ASH']",2
+nlp-10,"['ADL', 'ASK']",2
+nlp-8,"['ADL', 'ASK']",2
+ocr-1,"['ADL', 'AWA']",2
+sre-1,"['ADL', 'ASJ']",2
+sro-1,"['ADL', 'SIA']",2
+gcy-18,"['AFD', 'AIM']",2
+npr-11,"['AIA', 'AIY']",2
+nep-2,"['AIM', 'SMB']",2
+lin-14,"['AIY', 'DD']",2
+trx-2,"['AIY', 'ASE']",2
+sra-10,"['ALA', 'URX']",2
+unc-53,"['ALA', 'DA']",2
+ceh-36,"['ASE', 'AWC']",2
+cng-4,"['ASE', 'AWC']",2
+dsc-1,"['ASE', 'AWC']",2
+gcy-19,"['ASE', 'IL2']",2
+gcy-20,"['ASE', 'AWC']",2
+ncx-4,"['ASE', 'AWC']",2
+nlp-5,"['ASE', 'ASI']",2
+ugt-56,"['ASE', 'ASH']",2
+gon-1,"['ASI', 'ASJ']",2
+ins-6,"['ASI', 'ASJ']",2
+ins-9,"['ASI', 'ASJ']",2
+nlp-6,"['ASI', 'IL1']",2
+nlp-9,"['ASI', 'AWB']",2
+srg-41,"['ASI', 'ASK']",2
+str-2,"['ASI', 'AWC']",2
+srd-23,"['ASK', 'AWB']",2
+sre-4,"['AUA', 'AWC']",2
+opt-3,"['AVA', 'AVE']",2
+gur-3,"['AVD', 'PVC']",2
+fbf-1,"['AWB', 'AWC']",2
+gcy-10,"['AWB', 'AWC']",2
+ace-1,"['CEP', 'OLL']",2
+mbl-1,"['DA', 'VA']",2
+unc-37,"['DA', 'VA']",2
+acr-5,"['DB', 'VB']",2
+inx-14,"['DD', 'VD']",2
+syd-1,"['DD', 'VD']",2
+unc-13,"['DD', 'VD']",2
+inx-11,"['DVC', 'LUA']",2
+dma-1,"['FLP', 'PVD']",2
+egl-46,"['FLP', 'PVD']",2
+egl-47,"['HSN', 'PVQ']",2
+nlp-11,"['IL1', 'PVD']",2
+ric-4,"['OLL', 'SAB']",2
+che-11,"['PHA', 'PHB']",2
+ncx-3,"['PHA', 'PHB']",2
+tbc-8,"['PHA', 'PHB']",2
+mnm-2,"['PQR', 'URX']",2
+zag-1,"['PVT', 'RME']",2
+daf-1,"['RIC', 'RIM']",2
+daf-3,"['RIC', 'RIM']",2
+daf-4,"['RIC', 'RIM']",2
+tdc-1,"['RIC', 'RIM']",2
+pbo-5,"['RIF', 'RIS']",2
+ast-1,"['ADE', 'CEP', 'PDE']",3
+cat-2,"['ADE', 'CEP', 'PDE']",3
+dat-1,"['ADE', 'CEP', 'PDE']",3
+egl-30,"['ADF', 'AWB', 'AWC']",3
+gpa-5,"['ADL', 'ASI', 'AWA']",3
+cmk-1,"['AFD', 'AIY', 'AIZ']",3
+mgl-1,"['AIA', 'AIY', 'RMD']",3
+glr-3,"['AIY', 'ASE', 'RIA']",3
+gcy-25,"['AQR', 'PQR', 'URX']",3
+gcy-32,"['AQR', 'PQR', 'URX']",3
+gcy-34,"['AQR', 'PQR', 'URX']",3
+gcy-36,"['AQR', 'PQR', 'URX']",3
+gcy-37,"['AQR', 'PQR', 'URX']",3
+gpa-8,"['AQR', 'PQR', 'URX']",3
+max-1,"['AS', 'DA', 'DB']",3
+flp-5,"['ASE', 'PVT', 'RMG']",3
+gcy-14,"['ASE', 'AWC', 'PVT']",3
+gcy-3,"['ASE', 'ASI', 'PVT']",3
+ins-26,"['ASE', 'ASI', 'AWC']",3
+ceh-37,"['ASG', 'AWB', 'BAG']",3
+dop-4,"['ASG', 'AVL', 'PQR']",3
+sod-5,"['ASG', 'ASI', 'ASK']",3
+del-2,"['ASH', 'IL1', 'OLQ']",3
+ser-5,"['ASH', 'AVJ', 'AWB']",3
+sra-6,"['ASH', 'ASI', 'PVQ']",3
+daf-28,"['ASI', 'ASJ', 'PQR']",3
+daf-37,"['ASI', 'ASK', 'IL2']",3
+daf-38,"['ASI', 'ASK', 'IL2']",3
+gcy-27,"['ASI', 'ASJ', 'ASK']",3
+ins-3,"['ASI', 'ASJ', 'RIA']",3
+ins-4,"['ASI', 'ASJ', 'RIA']",3
+gpa-9,"['ASJ', 'PHB', 'PVQ']",3
+glt-4,"['AUA', 'IL2', 'RIA']",3
+inx-19,"['AVA', 'AVB', 'OLL']",3
+aex-2,"['AVD', 'AVL', 'DVB']",3
+itr-1,"['DA', 'LUA', 'PDA']",3
+unc-10,"['DD', 'SAB', 'VD']",3
+egl-6,"['DVA', 'HSN', 'SDQ']",3
+cat-4,"['ADE', 'CEP', 'HSN', 'PDE']",4
+exp-1,"['ADE', 'PDA', 'RID', 'SAB']",4
+snf-3,"['ADE', 'AQR', 'IL1', 'IL2']",4
+mgl-3,"['ADF', 'ASE', 'AWC', 'RIC']",4
+qui-1,"['ADL', 'ASH', 'PHB', 'PVQ']",4
+flp-6,"['AFD', 'ASE', 'ASG', 'PVT']",4
+gcy-12,"['AFD', 'ASE', 'AWC', 'PHA']",4
+gcy-29,"['AFD', 'ASE', 'AVK', 'AWC']",4
+hen-1,"['AFD', 'AIY', 'ASE', 'RIC']",4
+cng-1,"['AIA', 'ASH', 'ASI', 'ASJ']",4
+flp-2,"['AIA', 'ASI', 'PVW', 'RID']",4
+inx-1,"['AIB', 'AIY', 'DA', 'DB']",4
+cam-1,"['AIM', 'ALM', 'BDU', 'HSN']",4
+inx-17,"['AIN', 'DVA', 'DVC', 'PVT']",4
+flp-18,"['AIY', 'AVA', 'RIG', 'RIM']",4
+nlp-15,"['AIY', 'ASH', 'BDU', 'HSN']",4
+snb-1,"['AIY', 'DD', 'SAB', 'VD']",4
+acr-23,"['ALM', 'AVM', 'PLM', 'PVM']",4
+glr-8,"['ALM', 'BDU', 'PLM', 'URB']",4
+mec-17,"['ALM', 'AVM', 'PLM', 'PVM']",4
+mec-18,"['ALM', 'AVM', 'PLM', 'PVM']",4
+mec-2,"['ALM', 'AVM', 'PLM', 'PVM']",4
+eat-20,"['ALN', 'BAG', 'IL1', 'OLQ']",4
+gcy-33,"['AQR', 'BAG', 'PQR', 'URX']",4
+ncx-5,"['AQR', 'BAG', 'PQR', 'URX']",4
+rig-3,"['AS', 'AVA', 'DA', 'VA']",4
+unc-63,"['AS', 'DA', 'DB', 'VB']",4
+vab-3,"['AS', 'BAG', 'VA', 'VD']",4
+ins-22,"['ASE', 'ASI', 'ASK', 'AWC']",4
+ins-32,"['ASE', 'ASI', 'ASJ', 'AWC']",4
+nlp-14,"['ASE', 'ASI', 'ASK', 'PHA']",4
+unc-42,"['ASH', 'AVH', 'AVJ', 'AVK']",4
+gcy-2,"['ASI', 'AWA', 'PVT', 'RIA']",4
+nlp-1,"['ASI', 'AWC', 'BDU', 'PHB']",4
+sox-3,"['ASK', 'OLQ', 'SAA', 'SMB']",4
+ceh-6,"['AUA', 'AVH', 'RMD', 'SAB']",4
+inx-6,"['AVD', 'AVK', 'RIS', 'URB']",4
+acc-4,"['DA', 'DB', 'VA', 'VB']",4
+avr-15,"['DA', 'RME', 'RMG', 'VA']",4
+pkc-1,"['DA', 'DB', 'VA', 'VB']",4
+twk-43,"['DA', 'DB', 'VA', 'VB']",4
+ggr-2,"['DD', 'HSN', 'SIA', 'SMD']",4
+flp-3,"['IL1', 'OLL', 'PQR', 'URB']",4
+ser-3,"['PHA', 'PHB', 'PVQ', 'SIA']",4
+ser-1,"['PVT', 'RIA', 'RIC', 'URY']",4
+trp-4,"['ADE', 'CEP', 'DVA', 'DVC', 'PDE']",5
+gpa-10,"['ADF', 'ALN', 'ASI', 'ASJ', 'LUA']",5
+ins-7,"['ADF', 'ASI', 'ASK', 'RIM', 'URX']",5
+srb-6,"['ADF', 'ADL', 'ASH', 'PHA', 'PHB']",5
+tph-1,"['ADF', 'AIM', 'ASG', 'HSN', 'RIH']",5
+gpa-15,"['ADL', 'ASH', 'ASK', 'PHA', 'PHB']",5
+sod-1,"['ADL', 'ASI', 'ASK', 'PHA', 'PHB']",5
+cng-3,"['AFD', 'ASE', 'ASI', 'AWB', 'AWC']",5
+ntc-1,"['AFD', 'AIZ', 'ASG', 'AVK', 'DVA']",5
+ggr-1,"['AIB', 'AVH', 'PVQ', 'PVR', 'SMD']",5
+flp-19,"['AIN', 'AWA', 'BAG', 'HSN', 'URX']",5
+gcy-1,"['AIY', 'ASE', 'ASI', 'PVT', 'URX']",5
+mec-9,"['ALM', 'AVM', 'PLM', 'PVD', 'PVM']",5
+acr-14,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+cha-1,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+cnd-1,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+eat-6,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+gar-3,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+gbb-1,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+nlg-1,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+slo-2,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+tig-2,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+tsp-7,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+twk-13,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+twk-40,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+twk-7,"['AS', 'DA', 'DB', 'VA', 'VB']",5
+flp-13,"['ASE', 'ASG', 'ASK', 'BAG', 'DD']",5
+daf-11,"['ASI', 'ASJ', 'ASK', 'AWB', 'AWC']",5
+odr-1,"['ASI', 'ASJ', 'ASK', 'AWB', 'AWC']",5
+dbl-1,"['AVA', 'DA', 'DB', 'VA', 'VB']",5
+ggr-3,"['AVA', 'AVB', 'DVA', 'SIA', 'SMD']",5
+npr-4,"['AVA', 'BAG', 'BDU', 'PQR', 'RIV']",5
+cfi-1,"['AVD', 'IL2', 'LUA', 'PVC', 'URA']",5
+unc-4,"['AVF', 'DA', 'SAB', 'VA', 'VC']",5
+inx-9,"['AVK', 'DVC', 'PVR', 'SIB', 'URB']",5
+nca-1,"['DA', 'DB', 'HSN', 'VA', 'VB']",5
+inx-10,"['DD', 'DVA', 'DVB', 'DVC', 'PVP']",5
+ser-4,"['DVA', 'DVC', 'PVT', 'RIB', 'RIS']",5
+del-1,"['FLP', 'PVD', 'SAB', 'VA', 'VB']",5
+bas-1,"['ADE', 'ADF', 'AIM', 'CEP', 'HSN', 'PDE']",6
+glb-5,"['ADF', 'AQR', 'ASG', 'BAG', 'PQR', 'URX']",6
+gpa-13,"['ADF', 'ASH', 'AWC', 'PHA', 'PHB', 'PQR']",6
+gpa-1,"['ADL', 'ASH', 'ASI', 'ASJ', 'PHA', 'PHB']",6
+ocr-2,"['ADL', 'ASH', 'AWA', 'PHA', 'PHB', 'PVD']",6
+ttx-3,"['ADL', 'AIA', 'AIN', 'AIY', 'ASI', 'ASK']",6
+nlp-21,"['AFD', 'AS', 'DA', 'DB', 'VA', 'VB']",6
+ttx-4,"['AFD', 'AIY', 'AIZ', 'ASE', 'ASH', 'AWC']",6
+rig-4,"['AIA', 'DA', 'RIA', 'RIH', 'RME', 'URX']",6
+odr-2,"['AIB', 'ASG', 'AVG', 'RIF', 'RIM', 'SIA']",6
+inx-8,"['AIN', 'AVF', 'AVJ', 'AVK', 'PVR', 'SAB']",6
+ckr-2,"['AIY', 'AS', 'DA', 'DB', 'VA', 'VB']",6
+kal-1,"['AIY', 'AIZ', 'DVB', 'HSN', 'PDB', 'RID']",6
+des-2,"['ALA', 'FLP', 'IL2', 'PVC', 'PVD', 'RID']",6
+ida-1,"['ALA', 'HSN', 'PHA', 'PHB', 'PHC', 'VC']",6
+mec-10,"['ALM', 'AVM', 'FLP', 'PLM', 'PVD', 'PVM']",6
+ace-2,"['AS', 'DA', 'DB', 'VA', 'VB', 'VC']",6
+gar-2,"['AS', 'DA', 'DB', 'HSN', 'VA', 'VB']",6
+unc-3,"['AS', 'DA', 'DB', 'SAB', 'VA', 'VB']",6
+unc-40,"['AS', 'DA', 'DB', 'HSN', 'VA', 'VB']",6
+cng-2,"['ASE', 'ASG', 'ASI', 'ASJ', 'ASK', 'AWC']",6
+unc-30,"['ASG', 'DD', 'PVP', 'RIG', 'RIH', 'VD']",6
+snf-5,"['ASI', 'ASJ', 'ASK', 'DVA', 'DVB', 'DVC']",6
+nmr-2,"['AVA', 'AVD', 'AVE', 'AVG', 'PVC', 'RIM']",6
+unc-25,"['AVL', 'DD', 'DVB', 'RIS', 'RME', 'VD']",6
+unc-46,"['AVL', 'DD', 'DVB', 'RIS', 'RME', 'VD']",6
+unc-47,"['AVL', 'DD', 'DVB', 'RIS', 'RME', 'VD']",6
+gpa-16,"['AVM', 'BDU', 'PDE', 'PLM', 'PVC', 'RIP']",6
+acr-12,"['DA', 'DB', 'DD', 'VA', 'VB', 'VD']",6
+acr-2,"['DA', 'DB', 'DVC', 'PVQ', 'VA', 'VB']",6
+snt-1,"['DD', 'DVB', 'HSN', 'PDE', 'VC', 'VD']",6
+mps-1,"['ADF', 'ALM', 'ASE', 'ASG', 'ASH', 'AWC', 'PLM']",7
+nlp-3,"['ADF', 'ASE', 'ASH', 'ASJ', 'AWB', 'BAG', 'HSN']",7
+odr-3,"['ADF', 'ASH', 'AWA', 'AWB', 'AWC', 'PHA', 'PHB']",7
+gpa-6,"['ADL', 'ASH', 'ASI', 'AWA', 'AWB', 'PHA', 'PHB']",7
+flp-1,"['AIA', 'AIY', 'AVA', 'AVE', 'AVK', 'RIG', 'RMG']",7
+sra-11,"['AIA', 'AIY', 'AVB', 'PVT', 'RIF', 'RIG', 'VC']",7
+ceh-10,"['AIN', 'AIY', 'ALA', 'AVJ', 'CEP', 'RID', 'RME']",7
+mec-3,"['AIZ', 'ALM', 'AVM', 'FLP', 'PLM', 'PVD', 'PVM']",7
+deg-3,"['ALA', 'ALM', 'AVG', 'IL1', 'PLM', 'PVC', 'PVD']",7
+rab-3,"['ALA', 'AS', 'DA', 'DB', 'VA', 'VB', 'VC']",7
+avr-14,"['ALM', 'PDE', 'PHA', 'PHB', 'PHC', 'PLM', 'PVD']",7
+mec-4,"['ALM', 'AVM', 'BDU', 'FLP', 'PLM', 'PVD', 'PVM']",7
+dgk-1,"['AS', 'DA', 'DB', 'DD', 'VA', 'VB', 'VD']",7
+unc-57,"['AS', 'DA', 'DB', 'DD', 'VA', 'VB', 'VD']",7
+lim-6,"['ASE', 'AVL', 'DVB', 'PVT', 'RIG', 'RIS', 'RME']",7
+nmr-1,"['AVA', 'AVD', 'AVE', 'AVG', 'DVA', 'PVC', 'RIM']",7
+acr-16,"['ADE', 'AVA', 'CEP', 'DB', 'RIB', 'RID', 'SIB', 'SMD']",8
+dop-2,"['ADE', 'CEP', 'PDA', 'PDE', 'RIA', 'RID', 'SIA', 'SIB']",8
+mec-6,"['ALM', 'AVM', 'HSN', 'IL1', 'PLM', 'PVC', 'PVD', 'PVM']",8
+mec-7,"['ALM', 'AVF', 'AVM', 'BDU', 'FLP', 'PLM', 'PVD', 'PVM']",8
+pag-3,"['ALM', 'AVF', 'AVM', 'BDU', 'PLM', 'PVM', 'VA', 'VB']",8
+unc-2,"['ALM', 'AVM', 'AWC', 'DVB', 'HSN', 'PVM', 'SDQ', 'VC']",8
+goa-1,"['AS', 'DA', 'DB', 'DD', 'HSN', 'VA', 'VB', 'VD']",8
+ric-7,"['AS', 'DA', 'DB', 'DD', 'VA', 'VB', 'VC', 'VD']",8
+unc-6,"['AVA', 'AVB', 'AVG', 'PVQ', 'PVT', 'RIF', 'VA', 'VB']",8
+flp-8,"['ADA', 'ALM', 'ASE', 'AUA', 'AVM', 'PLM', 'PVM', 'RMG', 'URX']",9
+cat-1,"['ADE', 'ADF', 'AIM', 'CEP', 'HSN', 'PDE', 'RIC', 'RIH', 'VC']",9
+tmc-1,"['ADF', 'ADL', 'AQR', 'ASE', 'ASH', 'CEP', 'PHA', 'PQR', 'URX']",9
+nlp-7,"['ADL', 'AFD', 'ALM', 'ASE', 'ASI', 'PHA', 'PLM', 'PVP', 'RIC']",9
+rgs-3,"['ADL', 'ASH', 'ASI', 'ASJ', 'ASK', 'AWB', 'AWC', 'PHA', 'PHB']",9
+eat-16,"['AFD', 'ASE', 'ASH', 'ASJ', 'AUA', 'AVA', 'AWC', 'RMD', 'SIB']",9
+syg-2,"['AIZ', 'ALN', 'DA', 'DB', 'DD', 'PLN', 'PVT', 'RIC', 'RIM']",9
+lgc-55,"['ALM', 'ALN', 'AVB', 'AVM', 'HSN', 'IL1', 'RMD', 'SDQ', 'SMD']",9
+gcy-35,"['ALN', 'AQR', 'AVM', 'BDU', 'PLM', 'PLN', 'PQR', 'SDQ', 'URX']",9
+flp-12,"['AVH', 'AVJ', 'BAG', 'BDU', 'PDA', 'PVR', 'SAA', 'SDQ', 'SMB']",9
+che-12,"['ADF', 'ADL', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'PHA', 'PHB']",10
+ins-1,"['ADF', 'AIA', 'AIM', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'AWA', 'BAG']",10
+ntr-1,"['ADF', 'ADL', 'ASE', 'ASH', 'BDU', 'PQR', 'PVQ', 'PVR', 'PVW', 'RIC']",10
+flp-4,"['ADL', 'ALM', 'ASE', 'AVM', 'AWC', 'FLP', 'PHA', 'PHB', 'PVD', 'PVM']",10
+gpc-1,"['ADL', 'AFD', 'ASE', 'ASH', 'ASI', 'ASJ', 'AWB', 'AWC', 'PHB', 'RIB']",10
+gpa-2,"['AIA', 'ASK', 'AWC', 'IL1', 'IL2', 'OLL', 'PHA', 'PHB', 'PVT', 'URB']",10
+flp-10,"['AIM', 'ASI', 'AUA', 'BAG', 'BDU', 'DVB', 'PQR', 'PVC', 'PVR', 'URX']",10
+flp-7,"['ALA', 'AVG', 'PDA', 'PHA', 'PHB', 'PVW', 'RIC', 'RMD', 'SAA', 'SMD']",10
+inx-12,"['AVH', 'AVJ', 'AVK', 'IL1', 'PDE', 'PVD', 'SIB', 'URB', 'VA', 'VB']",10
+inx-13,"['DVA', 'DVB', 'DVC', 'LUA', 'PHA', 'PHB', 'PLN', 'PVC', 'PVQ', 'PVR']",10
+lin-11,"['ADF', 'ADL', 'AIZ', 'AVG', 'AVH', 'AVJ', 'PHA', 'PVQ', 'RIC', 'RIF', 'VC']",11
+ntr-2,"['ADF', 'ADL', 'AIA', 'AVG', 'PQR', 'PVQ', 'PVR', 'PVW', 'RIF', 'RME', 'SMD']",11
+osm-3,"['ADF', 'ADL', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'IL2', 'PHA', 'PHB']",11
+cho-1,"['AIA', 'AIY', 'AS', 'DA', 'DB', 'IL2', 'SAB', 'URA', 'VA', 'VB', 'VC']",11
+mod-1,"['AIA', 'AIB', 'AIY', 'AIZ', 'DD', 'RIB', 'RIC', 'RID', 'RIM', 'RME', 'VD']",11
+flp-20,"['AIB', 'ALM', 'ASE', 'AVM', 'LUA', 'PLM', 'PVC', 'PVM', 'PVR', 'PVT', 'RIB']",11
+egl-3,"['ALM', 'ASH', 'AVB', 'AVD', 'AVM', 'OLL', 'PVC', 'PVD', 'PVM', 'RIG', 'SDQ']",11
+dop-3,"['AS', 'DA', 'DB', 'DD', 'PVD', 'RIC', 'RIM', 'SIA', 'VA', 'VB', 'VD']",11
+flp-11,"['AUA', 'BAG', 'DA', 'DD', 'DVB', 'LUA', 'PHC', 'PVC', 'SAB', 'URX', 'VD']",11
+gpa-14,"['ADE', 'ALA', 'ASH', 'ASI', 'ASJ', 'ASK', 'AVA', 'DVA', 'PHA', 'PHB', 'PVQ', 'RIA']",12
+tax-2,"['ADE', 'AFD', 'AQR', 'ASE', 'ASG', 'ASI', 'ASJ', 'ASK', 'AWB', 'AWC', 'BAG', 'PQR']",12
+flp-21,"['ADF', 'ADL', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'FLP', 'RMG', 'URA', 'URX']",12
+odr-4,"['ADF', 'ADL', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'AWA', 'AWB', 'AWC', 'PHA', 'PHB']",12
+ser-2,"['ADF', 'AIY', 'AIZ', 'BDU', 'DVA', 'OLL', 'PVD', 'RIA', 'RID', 'SIA', 'SIB', 'VD']",12
+inx-18,"['ADL', 'AIY', 'ASI', 'ASK', 'AVG', 'AVJ', 'AVK', 'DVA', 'DVC', 'IL1', 'IL2', 'PVT']",12
+ceh-14,"['AFD', 'ALA', 'BDU', 'DVC', 'PHA', 'PHB', 'PHC', 'PVN', 'PVQ', 'PVR', 'PVT', 'PVW']",12
+tax-4,"['AFD', 'AQR', 'ASE', 'ASG', 'ASI', 'ASJ', 'ASK', 'AWB', 'AWC', 'BAG', 'PQR', 'URX']",12
+unc-17,"['AIY', 'AS', 'DA', 'DB', 'HSN', 'IL2', 'SAB', 'URA', 'URB', 'VA', 'VB', 'VC']",12
+kvs-1,"['ADF', 'ADL', 'AS', 'ASE', 'ASG', 'ASH', 'ASK', 'AWC', 'DA', 'DB', 'PDA', 'VA', 'VB']",13
+npr-5,"['ADF', 'AIA', 'ASE', 'ASG', 'ASI', 'ASJ', 'ASK', 'AUA', 'AWA', 'AWB', 'IL2', 'PHA', 'PHB']",13
+rig-1,"['AIB', 'AIN', 'AUA', 'AVA', 'AVB', 'AVD', 'AVE', 'AVH', 'AVJ', 'PVC', 'RIC', 'RMD', 'SMD']",13
+flp-22,"['AIM', 'AIZ', 'ASG', 'AVA', 'AVG', 'AVL', 'CEP', 'PVD', 'PVW', 'RIC', 'RIV', 'SMD', 'URA']",13
+pdf-2,"['AIM', 'AQR', 'AVD', 'AVG', 'BDU', 'PHA', 'PHB', 'PQR', 'PVP', 'PVT', 'RID', 'RIM', 'RIS']",13
+trp-1,"['AVA', 'BAG', 'DA', 'DB', 'RIA', 'RIB', 'RIM', 'RMD', 'SIA', 'SMB', 'SMD', 'VA', 'VB']",13
+gpa-3,"['ADF', 'ADL', 'AIZ', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'AWA', 'AWC', 'PHA', 'PHB', 'PVT']",14
+mbr-1,"['ADL', 'AIM', 'AIN', 'AIZ', 'ASK', 'AUA', 'AWA', 'DVA', 'PVP', 'RIC', 'RIF', 'RIG', 'RIH', 'RIR']",14
+glr-2,"['AIA', 'AIB', 'AIY', 'AIZ', 'AVA', 'AVD', 'AVE', 'AVG', 'PVC', 'RIA', 'RIF', 'RIG', 'RIR', 'RMD']",14
+sox-2,"['AIM', 'AIN', 'AVK', 'AWB', 'AWC', 'DA', 'IL1', 'IL2', 'OLL', 'PVP', 'RIH', 'RME', 'URA', 'URB']",14
+ncs-1,"['ADF', 'ADL', 'AFD', 'AIY', 'ASE', 'ASG', 'ASI', 'AVE', 'AVK', 'AWA', 'AWB', 'AWC', 'BAG', 'PHA', 'PHB', 'RMG']",16
+osm-9,"['ADF', 'ADL', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'AWA', 'AWC', 'FLP', 'IL2', 'OLQ', 'PHA', 'PHB', 'PVD']",16
+unc-31,"['ALM', 'BDU', 'DA', 'DB', 'DD', 'DVA', 'DVB', 'DVC', 'HSN', 'PDE', 'SAB', 'SDQ', 'VA', 'VB', 'VC', 'VD']",16
+unc-36,"['ALM', 'ALN', 'ASE', 'ASK', 'AVA', 'AVM', 'BDU', 'DVA', 'PHB', 'PLM', 'PVC', 'PVM', 'PVQ', 'RMD', 'SDQ', 'SIB']",16
+acr-15,"['AS', 'AVA', 'AVB', 'DA', 'DB', 'DVA', 'PVQ', 'RID', 'RIM', 'SAA', 'SIA', 'SIB', 'SMB', 'SMD', 'VA', 'VB']",16
+syg-1,"['ADF', 'ADL', 'AIN', 'AVH', 'DA', 'DB', 'DD', 'RIF', 'RIG', 'RIM', 'RIS', 'SAA', 'SAB', 'SIA', 'SIB', 'VA', 'VB']",17
+dop-1,"['ALM', 'ALN', 'AS', 'AUA', 'AVM', 'DA', 'DB', 'PHC', 'PLM', 'PLN', 'PVD', 'PVQ', 'RIB', 'RIM', 'RIS', 'VA', 'VB']",17
+inx-3,"['ALN', 'AS', 'DA', 'DB', 'DD', 'DVA', 'DVB', 'HSN', 'PDE', 'PLM', 'PVQ', 'PVR', 'PVT', 'URB', 'VA', 'VB', 'VD']",17
+unc-8,"['AS', 'ASH', 'AVA', 'AVB', 'AVD', 'DA', 'DB', 'DD', 'FLP', 'PDA', 'PDB', 'PVC', 'PVM', 'SAB', 'VA', 'VB', 'VD']",17
+trp-2,"['ASE', 'ASG', 'AVB', 'AVD', 'AVE', 'DVC', 'PVQ', 'PVT', 'RIB', 'RIG', 'RIM', 'RIV', 'RMD', 'SAA', 'SIA', 'SIB', 'SMD']",17
+glr-1,"['AIB', 'AVA', 'AVB', 'AVD', 'AVE', 'AVG', 'AVJ', 'DVC', 'PVC', 'PVQ', 'RIA', 'RIG', 'RIM', 'RIS', 'RMD', 'RME', 'SMD', 'URY']",18
+pdf-1,"['ADA', 'ADE', 'AFD', 'AIM', 'ASI', 'ASK', 'AVB', 'LUA', 'PHA', 'PHB', 'PQR', 'PVN', 'PVP', 'PVT', 'RID', 'RME', 'RMG', 'SAA', 'SIA']",19
+npr-1,"['AQR', 'ASE', 'ASG', 'ASH', 'AUA', 'DD', 'IL2', 'OLQ', 'PHA', 'PHB', 'PQR', 'RIG', 'RIV', 'RMG', 'SAA', 'SDQ', 'SMB', 'URX', 'VD']",19
+inx-4,"['ADA', 'ADE', 'ADF', 'AIN', 'ALN', 'ASG', 'ASH', 'AUA', 'AVJ', 'DVC', 'FLP', 'HSN', 'PHA', 'PHB', 'PVR', 'PVT', 'RIC', 'RIG', 'RIM', 'RIP']",20
+nsy-5,"['ADA', 'ADF', 'ADL', 'AFD', 'AIM', 'AIY', 'AIZ', 'ASH', 'ASI', 'ASK', 'AVB', 'AVK', 'AWB', 'AWC', 'BAG', 'PHA', 'PHB', 'PVC', 'PVQ', 'RIC']",20
+glr-4,"['AUA', 'AVA', 'AVH', 'DB', 'DVA', 'FLP', 'PVD', 'PVP', 'RIB', 'RIF', 'RIM', 'RMD', 'RMG', 'SAA', 'SAB', 'SIB', 'SMD', 'URA', 'URY', 'VB']",20
+che-2,"['ADE', 'ADF', 'ADL', 'AQR', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'AWA', 'AWB', 'AWC', 'CEP', 'FLP', 'IL1', 'IL2', 'OLL', 'PDE', 'PHA', 'PHB', 'PQR']",22
+che-3,"['ADE', 'ADF', 'ADL', 'AFD', 'AQR', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'BAG', 'CEP', 'FLP', 'IL1', 'IL2', 'OLL', 'OLQ', 'PDE', 'PHA', 'PHB', 'PQR']",22
+dyf-11,"['ADE', 'ADF', 'ADL', 'AFD', 'AQR', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'AWA', 'AWB', 'AWC', 'IL1', 'IL2', 'OLL', 'OLQ', 'PDE', 'PHA', 'PHB', 'PQR']",22
+wrk-1,"['AIB', 'AIN', 'AIY', 'ASI', 'ASJ', 'ASK', 'AUA', 'AVA', 'AVE', 'AWB', 'DA', 'DB', 'DD', 'DVA', 'PDA', 'PLM', 'RIC', 'RIG', 'RMD', 'RME', 'SMD', 'URA']",22
+unc-86,"['ADA', 'AIM', 'AIZ', 'ALM', 'ALN', 'AQR', 'BDU', 'FLP', 'HSN', 'IL2', 'PLM', 'PQR', 'PVM', 'PVR', 'RIH', 'RIP', 'RIR', 'RMG', 'SDQ', 'URA', 'URB', 'URX', 'URY']",23
+osm-6,"['ADE', 'ADF', 'ADL', 'AFD', 'AQR', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'AWA', 'AWB', 'AWC', 'CEP', 'IL1', 'IL2', 'OLL', 'OLQ', 'PDE', 'PHA', 'PHB', 'PQR']",23
+tax-6,"['ADF', 'ADL', 'AFD', 'AIB', 'AIM', 'AIY', 'AIZ', 'ASE', 'ASH', 'ASI', 'ASJ', 'ASK', 'AUA', 'AVA', 'AVE', 'AVK', 'AWA', 'AWC', 'PHA', 'PHB', 'RIA', 'RIB', 'RIM', 'RIS', 'RMD']",25
+glr-5,"['AIB', 'AIY', 'AIZ', 'AVA', 'AVB', 'AVD', 'AVE', 'AVK', 'DVA', 'HSN', 'LUA', 'PVC', 'PVQ', 'RIC', 'RIF', 'RIM', 'RMD', 'RME', 'RMG', 'SAB', 'SIB', 'SMD', 'URA', 'URB', 'URY', 'VC']",26
+inx-7,"['ADE', 'AIY', 'ALM', 'ALN', 'AVA', 'AVK', 'AVM', 'BDU', 'DA', 'DVA', 'DVB', 'DVC', 'FLP', 'HSN', 'LUA', 'PLM', 'PLN', 'PVC', 'PVM', 'PVP', 'PVQ', 'PVT', 'PVW', 'RID', 'RIS', 'SDQ', 'URB']",27
+unc-7,"['ADL', 'AIB', 'ALM', 'AS', 'AVA', 'AVB', 'AVE', 'AVG', 'AVH', 'AVK', 'AVM', 'BDU', 'CEP', 'DA', 'DB', 'DD', 'DVB', 'DVC', 'FLP', 'PDE', 'PVD', 'RIA', 'RIS', 'RIV', 'RMD', 'RME', 'SAA', 'SIA', 'SIB', 'SMB', 'SMD', 'VA', 'VB', 'VC', 'VD']",35
+eat-4,"['ADA', 'ADF', 'ADL', 'AFD', 'AIB', 'AIM', 'AIN', 'AIZ', 'ALM', 'AQR', 'ASE', 'ASG', 'ASH', 'ASJ', 'ASK', 'AUA', 'AVA', 'AVE', 'AVJ', 'AVM', 'AWB', 'AWC', 'BAG', 'DVC', 'FLP', 'IL1', 'LUA', 'OLL', 'OLQ', 'PHA', 'PHB', 'PHC', 'PLM', 'PQR', 'PVD', 'PVQ', 'PVR', 'RIA', 'RIG', 'RIM', 'RMD', 'SIB', 'URY']",43
+unc-9,"['ADA', 'ADE', 'ADL', 'AIN', 'AIY', 'ALM', 'AUA', 'AVA', 'AVB', 'AVD', 'AVH', 'AVJ', 'AVK', 'AVM', 'AWB', 'BDU', 'CEP', 'DA', 'DB', 'DD', 'DVB', 'DVC', 'FLP', 'HSN', 'IL1', 'IL2', 'LUA', 'OLL', 'PDA', 'PDB', 'PDE', 'PHA', 'PHB', 'PHC', 'PLM', 'PLN', 'PVC', 'PVD', 'PVM', 'PVN', 'PVP', 'PVQ', 'PVR', 'PVT', 'PVW', 'RIB', 'RIC', 'RIF', 'RIP', 'RIS', 'RME', 'SDQ', 'SIA', 'SIB', 'SMB', 'SMD', 'URA', 'URB', 'VA', 'VB', 'VC', 'VD']",62
+,"['FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'FullPromToNeu', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADA', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADE', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADF', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'ADL', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AFD', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIA', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIB', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIM', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIN', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIY', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'AIZ', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALA', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALM', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'ALN', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AQR', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'AS', 'ASE', 'ASE', 'ASE', 'ASE', 'ASE', 'ASE', 'ASE', 'ASE', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASG', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASH', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASJ', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'ASK', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AUA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVA', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVB', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVD', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVE', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVF', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVG', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVH', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVJ', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVK', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVL', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AVM', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWA', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWB', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'AWC', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BAG', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'BDU', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'CEP', 'DA', 'DA', 'DA', 'DA', 'DA', 'DA', 'DA', 'DA', 'DA', 'DA', 'DA', 'DA', 'DA', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DB', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DD', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVA', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVB', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'DVC', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'FLP', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'HSN', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL1', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'IL2', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'LUA', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLL', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'OLQ', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDA', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDB', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PDE', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHA', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHB', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PHC', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLM', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PLN', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PQR', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVC', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVD', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVM', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVN', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVP', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVQ', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVR', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVT', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'PVW', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIA', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIB', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RIC', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RID', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIF', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIG', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIH', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIM', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIP', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIR', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIS', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RIV', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RMD', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RME', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMG', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'RMH', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAA', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SAB', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SDQ', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIA', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SIB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMB', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'SMD', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URA', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URB', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URX', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'URY', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VA', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VC', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD', 'VD']",5346
